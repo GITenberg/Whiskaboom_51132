@@ -1,10 +1,13 @@
 _repo: Whiskaboom_51132
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Diehl
     gutenberg_agent_id: '33347'
     url: http://www.gutenberg.org/2009/agents/33347
+covers:
+- cover_type: archival
+  image_path: 51132-h/images/cover.jpg
 creator:
   author:
     agent_name: Arkin, Alan
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '46255'
     url: http://www.gutenberg.org/2009/agents/46255
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51132#Whiskaboom
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-05'
 gutenberg_type: Text
